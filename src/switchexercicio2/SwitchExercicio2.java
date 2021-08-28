@@ -1,21 +1,14 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package switchexercicio2;
 
-/**
- *
- * @author Alicerce Educação
- */
+//Implemente em Java, um código que inicia uma variável com o número
+//inteiro 200. Utilize uma estrutura switch-case que obrigatoriamente
+//cairá na condição padrão.
+
 public class SwitchExercicio2 {
 
-    /**
-     * @param args the command line arguments
-     */
+
     public static void main(String[] args) {
-        // TODO code application logic here
+    
     }
     
 }
